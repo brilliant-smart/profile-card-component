@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Solution URL:](https://github.com/brilliant-smart/profile-card-component.git)
-- Live Site URL: [Live site URL:](https://your-live-site-url.com)
+- Live Site URL: [Live site URL:](https://brilliant-smart.github.io/profile-card-component/)
 
 ## My process
 
